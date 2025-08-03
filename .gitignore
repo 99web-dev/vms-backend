@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Env vars
+.env
+
+# Logs
+logs/
+*.log
+
+# OS/System files
+.DS_Store
+
+# Redis dump
+dump.rdb
